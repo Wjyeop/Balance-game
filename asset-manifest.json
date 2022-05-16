@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Balance-game/static/css/main.073c9b0a.css",
-    "main.js": "/Balance-game/static/js/main.a6745776.js",
-    "static/js/787.a790ee22.chunk.js": "/Balance-game/static/js/787.a790ee22.chunk.js",
-    "static/media/logo.svg": "/Balance-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Balance-game/index.html",
-    "main.073c9b0a.css.map": "/Balance-game/static/css/main.073c9b0a.css.map",
-    "main.a6745776.js.map": "/Balance-game/static/js/main.a6745776.js.map",
-    "787.a790ee22.chunk.js.map": "/Balance-game/static/js/787.a790ee22.chunk.js.map"
+    "main.css": "/balance-game/static/css/main.073c9b0a.css",
+    "main.js": "/balance-game/static/js/main.8d9dd068.js",
+    "static/js/787.a790ee22.chunk.js": "/balance-game/static/js/787.a790ee22.chunk.js",
+    "static/media/logo.svg": "/balance-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/balance-game/index.html",
+    "main.073c9b0a.css.map": "/balance-game/static/css/main.073c9b0a.css.map",
+    "main.8d9dd068.js.map": "/balance-game/static/js/main.8d9dd068.js.map",
+    "787.a790ee22.chunk.js.map": "/balance-game/static/js/787.a790ee22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a6745776.js"
+    "static/js/main.8d9dd068.js"
   ]
 }
