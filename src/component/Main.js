@@ -4,7 +4,7 @@ function Main() {
 
     return(
         <div>
-            안녕하세여 우하하
+            안녕하세여 메인입니다.
         </div>
     )
 

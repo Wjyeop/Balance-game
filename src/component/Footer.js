@@ -4,7 +4,7 @@ function Footer() {
 
     return(
         <div>
-            안녕하세여 우하하
+            안녕하세여 푸터입니다.
         </div>
     )
 
