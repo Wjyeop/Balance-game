@@ -7,8 +7,14 @@ function Header() {
     return(
         <div className="header">
             <div className="menu">
-            <div className="logo">BALANCE GAME</div><span>안녕하세여 헤더입니다</span>
+                <div className="logo">BALANCE GAME</div>
+                <div className="stat">상태창</div>            
             </div>
+            <div className="serchbar">
+                <input type="text" placeholder="검색"></input>
+                </div>
+
+            
         </div>
     )
 

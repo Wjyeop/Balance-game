@@ -1,18 +1,21 @@
-.App {
-  background-color: #61dafb;
-}
+.App{text-align: center;}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+.header{background-color: #8179f0; width: 100%;}
+.header .logo{float:left;width: 200px;text-align:left;}
+.header .stat{float:right;width: 200px;text-align:right;}
+.header .serchbar{padding: 5px;}
+
+.main{background-color: #0077ff; padding-top: 10px; padding-bottom: 10px;}
+
+.game .first{float:left;}
 
 
-.header{text-align: center;}
-.header .logo{text-align: left;}
+.game .second{float:right;}
+
+
+
+
+
+.Footer{background-color: #8179f0;}
+
+
