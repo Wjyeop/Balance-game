@@ -1,7 +1,7 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 function Game1() {
-
+    
     return(
         <div className="game">
             첫번째게임
@@ -17,6 +17,8 @@ function Game1() {
 
             
             </div>
+
+
         </div>
     )
 }
